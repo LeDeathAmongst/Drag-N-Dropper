@@ -29,12 +29,12 @@ Finally, you have a fully functioning Discord bot!
 ## Contributing
 Coming soon: guide on how to contribute to Drag N' Dropper and become a developer.
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=1269563963994280038)
-
 If you need any help, want to ask questions about the website, want to show off your creations, or just want to be part of the community, make sure to join our Discord server!
-
-
 
 ## License
 
 **© 2024 Drag N' Dropper**. This work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+
+## Curious about what the dev is doing? Check here!
+![My Discord](https://discord-readme-badge.vercel.app/api?id=1269563963994280038)
