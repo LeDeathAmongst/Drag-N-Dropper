@@ -2,5 +2,5 @@
   "discordUrl": "https://discord.com/api/v6",
   "apiUrl": "https://disfuse-api.onrender.com",
   "devAuthUrl": "https://discord.com/oauth2/authorize?client_id=1300241404525809734&response_type=token&redirect_uri=https://localhost:3000/projects&scope=identify+email",
-  "authUrl": "https://discord.com/oauth2/authorize?client_id=1300241404525809734&response_type=code&redirect_uri=https%3A%2F%2Fdragndrop.prismbot.icu%2Fprojects&scope=identify+email"
+  "authUrl": "https://discord.com/oauth2/authorize?client_id=1300241404525809734&response_type=code&redirect_uri=https%3A%2F%2Fdragndrop.prismbot.icu%2Fprojects%26scope%3Didentify%2Bemail&scope=identify+email"
 }
