@@ -1,6 +1,6 @@
 {
-  "discordUrl": "https://discord.com/api/v9",
+  "discordUrl": "https://discord.com/api/v6",
   "apiUrl": "https://disfuse-api.onrender.com",
   "devAuthUrl": "https://discord.com/oauth2/authorize?client_id=1234163623081934889&response_type=token&redirect_uri=https://localhost:3000/projects&scope=identify+email",
-  "authUrl": "https://discord.com/oauth2/authorize?client_id=1300241404525809734&response_type=token&redirect_uri=https://dragndrop.prismbot.icu/projects&scope=identify+email"
+  "authUrl": "https://discord.com/oauth2/authorize?client_id=1300241404525809734&response_type=token&redirect_uri=https://drag-n-drop-coding.vercel.app/projects&scope=identify+email"
 }
