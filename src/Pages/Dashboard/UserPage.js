@@ -99,15 +99,15 @@ export default function UserPage() {
   }
 
   let description =
-    "Check out this user's profile and projects on DisFuse, a platform to create Discord bots with block coding!";
+    "Check out this user's profile and projects on DragNDropper, a platform to create Discord bots with block coding!";
 
   return (
     <>
       <Helmet>
         <meta name="description" content={description} />
-        <title>{`${user.displayName} on DisFuse`}</title>
+        <title>{`${user.displayName} on DragNDropper`}</title>
 
-        <meta property="og:title" content={`${user.displayName} on DisFuse`} />
+        <meta property="og:title" content={`${user.displayName} on DragNDropper`} />
         <meta property="og:description" content={description} />
         <meta
           property="og:image"

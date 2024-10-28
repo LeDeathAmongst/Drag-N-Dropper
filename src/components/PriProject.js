@@ -96,7 +96,7 @@ function editProject(project) {
     await Queue.fire({
       title: "Enter your new project name",
       input: "text",
-      inputPlaceholder: "DisFuse Project",
+      inputPlaceholder: "DragNDropper Project",
       inputValue: project.name,
       showCancelButton: true,
       animation: true,

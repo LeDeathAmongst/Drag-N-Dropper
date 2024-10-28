@@ -2,16 +2,15 @@ module.exports = [
   {
     name: "instructions.txt",
     content: `
-      These are the instructions about what to do after you export your project from DisFuse.
-      If you need help with anything about DisFuse, including these instructions, want to share your code, get important updates, or just want to be a part of the community, make sure to join our Discord server!
-      https://dsc.gg/disfuse
+      These are the instructions about what to do after you export your project from Drag N' Dropper.
+      If you need help with anything about Drag N' Dropper, including these instructions, want to share your code, get important updates, or just want to be a part of the community, make sure to join our Discord server!
 
       Explanation of files:
       After you extracted this folder, you should see the following files:
 
       package.json - Pre-generated information about the project, including required dependencies. This is one of the base files required to run any javascript project.
-      index.js - The main file of the project. This file contains ALL of the javascript code for your bot. When you use a block in the DisFuse workspace, it automatically converts it to javascript code and adds it to the index.js file.
-      (project name).df - This is a .df (DisFuse) file, which you can use to load the project back into the DisFuse workspace in case you didn't save it to another file. You can go to the DisFuse website, and click the "load" button at the top, and select this file to bring back all the blocks that you had at the time of exporting.
+      index.js - The main file of the project. This file contains ALL of the javascript code for your bot. When you use a block in the Drag N' Dropper workspace, it automatically converts it to javascript code and adds it to the index.js file.
+      (project name).df - This is a .df (Drag N' Dropper) file, which you can use to load the project back into the Drag N' Dropper workspace in case you didn't save it to another file. You can go to the Drag N' Dropper website, and click the "load" button at the top, and select this file to bring back all the blocks that you had at the time of exporting.
       instructions.txt - These instructions
 
       What to do next:
@@ -158,9 +157,9 @@ module.exports = [
   {
     name: "package.json",
     content: `{
-      "name": "disfuse-bot",
+      "name": "Drag N' Dropper-bot",
       "version": "1.0.0",
-      "description": "A Discord bot created with DisFuse",
+      "description": "A Discord bot created with Drag N' Dropper",
       "main": "index.js",
       "dependencies": {
         "asynckit": "^0.4.0",
