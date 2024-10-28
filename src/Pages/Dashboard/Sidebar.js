@@ -36,7 +36,7 @@ export default function Sidebar() {
       <div className="dashboard-container">
         <div onClick={() => setActive(true)} className="hamburger">
           <i class="fa-solid fa-bars"></i>
-          <div>DisFuse</div>
+          <div>Drag N' Drop Coding</div>
         </div>
         <div className="sidebar-container">
           <div className="top">
@@ -48,7 +48,7 @@ export default function Sidebar() {
             <Link to="/">
               <div className="logo">
                 <img src="/media/disfuse.png" alt="" />
-                <div>DisFuse</div>
+                <div>Drag N' Drop Coding</div>
               </div>
             </Link>
             <ul>

@@ -47,7 +47,7 @@ export default function OptimizationSettings() {
             <div className="settings">
                 <h1>Optimization</h1>
                 <p>
-                    Optimize the DisFuse website or workspace
+                    Optimize the Drag N' Drop website or workspace
                 </p>
                 <div className="option">
                     <p>Fast block render:</p>

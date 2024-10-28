@@ -57,7 +57,7 @@ export default function MyProjects() {
       await Queue.fire({
         title: "Enter your project name",
         input: "text",
-        inputPlaceholder: "DisFuse Project",
+        inputPlaceholder: "Drag N Drop Coding Project",
         showCancelButton: true,
         inputValidator: (i) => {
           if (i.length < 3) return "The name must be at least 2 characters";
@@ -157,7 +157,7 @@ export default function MyProjects() {
           input: "text",
           inputValue: file.name.replace(".df", ""),
           showCancelButton: true,
-          inputPlaceholder: "DisFuse Project",
+          inputPlaceholder: "Drag N' Drop Coding Project",
           inputValidator: (i) => {
             if (i.length < 3) return "The name must be at least 2 characters";
             if (i.length > 12) return "The name must be below 12 characters";

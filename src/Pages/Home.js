@@ -23,7 +23,7 @@ export default function Home() {
           <div className="logo">
             <img src="/media/disfuse.png" alt="" />
           </div>
-          <h1>DisFuse</h1>
+          <h1>Drag N' Drop Coding</h1>
           <p>
             Create your own <strong>advanced</strong> Discord bot by using
             <strong> simple</strong>, easy-to-use block coding
@@ -55,7 +55,7 @@ export default function Home() {
           <i class="fa-solid fa-circle-chevron-down"></i>
         </div>
         <div className="body">
-          <h2 className="hidden">Why DisFuse?</h2>
+          <h2 className="hidden">Why Drag N' Dropper?</h2>
           <div className="features">
             <div className="hidden">
               <i class="fa-solid fa-eye-slash"></i>

@@ -121,7 +121,7 @@ export default function ProjectPage() {
         title: 'Enter your project name',
         input: 'text',
         inputValue: project.name + ' Clone',
-        inputPlaceholder: 'DisFuse Project',
+        inputPlaceholder: 'Drag N Drop Coding Project',
         showCancelButton: true,
         inputValidator: (i) => {
           if (i.length >= 3) return false;
