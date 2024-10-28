@@ -29,10 +29,11 @@ Finally, you have a fully functioning Discord bot!
 ## Contributing
 Coming soon: guide on how to contribute to Drag N' Dropper and become a developer.
 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=1269563963994280038)
 
 If you need any help, want to ask questions about the website, want to show off your creations, or just want to be part of the community, make sure to join our Discord server!
 
-<iframe src="https://discord.com/widget?id=1300282683276136538&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 
 ## License
 
