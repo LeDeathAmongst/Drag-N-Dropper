@@ -1,6 +1,6 @@
 # [Drag N' Dropper](https://dragndrop.prismbot.icu)
 
-![Drag N Dropper](https://github.com/user-attachments/assets/71f0b5f8-faf3-4194-b0bd-ceacb5fb62a5)
+![Drag N Dropper](./public/media/disfuse.png)
 
 **Make your own advanced Discord bot with simple, easy-to-use block coding!**
 
